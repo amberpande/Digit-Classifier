@@ -1,0 +1,7 @@
+#Fri May 22 11:46:41 IST 2020
+base.0=C\:\\Users\\amber\\Downloads\\examples-master\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\amber\\Downloads\\examples-master\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
